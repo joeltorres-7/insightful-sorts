@@ -1,0 +1,51 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="InsightfulSorts:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/InsightfulSorts_jar</output-path>
+    <root id="archive" name="LinkedListSorting.jar">
+      <element id="module-output" name="InsightfulSorts" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/asm-9.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/asm-commons-9.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/asm-tree-9.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/flatlaf-3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/jcommon-1.0.23.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/jfreechart-1.0.19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/org-netbeans-api-annotations-common-RELEASE190.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/org-netbeans-api-intent-RELEASE190.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/org-netbeans-api-io-RELEASE190.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/org-netbeans-api-progress-nb-RELEASE190.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/org-netbeans-api-progress-RELEASE190.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/org-netbeans-api-scripting-RELEASE190.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/org-netbeans-api-templates-RELEASE190.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/org-netbeans-bootstrap-RELEASE190.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/org-netbeans-core-RELEASE190.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/org-netbeans-core-startup-base-RELEASE190.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/org-netbeans-core-startup-RELEASE190.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/org-netbeans-libs-flatlaf-RELEASE190.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/org-netbeans-modules-editor-mimelookup-RELEASE190.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/org-netbeans-modules-keyring-RELEASE190.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/org-netbeans-modules-options-api-RELEASE190.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/org-netbeans-modules-queries-RELEASE190.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/org-netbeans-modules-sampler-RELEASE190.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/org-netbeans-spi-quicksearch-RELEASE190.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/org-netbeans-swing-laf-flatlaf-RELEASE190.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/org-netbeans-swing-outline-RELEASE190.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/org-netbeans-swing-plaf-RELEASE190.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/org-netbeans-swing-tabcontrol-RELEASE190.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/org-openide-actions-RELEASE190.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/org-openide-awt-RELEASE190.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/org-openide-dialogs-RELEASE190.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/org-openide-explorer-RELEASE190.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/org-openide-filesystems-nb-RELEASE190.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/org-openide-filesystems-RELEASE190.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/org-openide-io-RELEASE190.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/org-openide-loaders-RELEASE190.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/org-openide-modules-RELEASE190.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/org-openide-nodes-RELEASE190.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/org-openide-text-RELEASE190.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/org-openide-util-lookup-RELEASE190.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/org-openide-util-RELEASE190.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/org-openide-util-ui-RELEASE190.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/org-openide-windows-RELEASE190.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
