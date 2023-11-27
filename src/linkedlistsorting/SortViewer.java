@@ -153,7 +153,7 @@ public class SortViewer {
             @Override
             public void actionPerformed(ActionEvent e) {
                 // Abre el enlace al hacer clic en el botón
-                openLink("https://github.com/joeltorres-7");
+                openLink("https://github.com/joeltorres-7/insightful-sorts");
             }
         });
 
